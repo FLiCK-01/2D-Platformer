@@ -3,7 +3,7 @@
 ## 📖 About The Project
 **Author**: Ctrl-Alt-Defeat
 
-**Competition**: Hermes Hackathon 2025
+**Competition**: Hermes Hackathon 2024
 
 This is a classic 2D platformer developed using the Unity Game Engine. This project focuses on building a robust, responsive character controller and implementing core platforming mechanics from scratch using C#. 
 
