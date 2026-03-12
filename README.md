@@ -1,4 +1,4 @@
-# 🎮 Ctrl-Alt-Defeat (2D Platformer)
+# 🎮 2D Platformer (Ctrl-Alt-Defeat)
 
 ## 📖 About The Project
 Author: **Ctrl-Alt-Defeat**(Hermes Hackathon 2025 Team)
