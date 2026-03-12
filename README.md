@@ -2,6 +2,7 @@
 
 ## 📖 About The Project
 Author: **Ctrl-Alt-Defeat**(Hermes Hackathon 2025 Team)
+
 This is a classic 2D platformer developed using the Unity Game Engine. This project focuses on building a robust, responsive character controller and implementing core platforming mechanics from scratch using C#. 
 
 Whether it's precise jumping, handling environmental collisions, or managing game states, this project serves as a showcase of foundational game development concepts in a 2D space.
